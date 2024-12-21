@@ -43,8 +43,8 @@ AI Cancer Care provides an easy and efficient way to craft personalized cancer c
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mendsalbert/beat-cancer.git
-   cd beat-cancer
+   git clone https://github.com/AbhilashSavadatti/project_cancerTreatment.git
+   cd project_cancerTreatment
    ```
 
 2. **Install Dependencies**
@@ -120,7 +120,3 @@ const handleFileUpload = async (file, filetype) => {
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
